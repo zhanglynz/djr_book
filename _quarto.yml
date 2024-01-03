@@ -1,0 +1,20 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Data Jobs Done With R"
+  author: "Lingyun Zhang"
+  date: today
+  date-format: YYYY-MM-DD
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+
+editor: visual
+
