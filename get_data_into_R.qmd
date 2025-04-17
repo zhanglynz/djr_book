@@ -1,0 +1,3 @@
+# Getting Data into R
+
+To do: introduce djr::s_read, which can read `.rds`, `.csv`, `.xlsx`, `.txt` and other file types

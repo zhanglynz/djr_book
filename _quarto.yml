@@ -9,6 +9,10 @@ book:
   date-format: YYYY-MM-DD
   chapters:
     - index.qmd
+    - get_data_into_R.qmd
+    - explore_data.qmd
+    - data_manipulation.qmd
+    - output_results.qmd
 
 format:
   html:

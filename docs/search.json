@@ -4,6 +4,49 @@
     "href": "index.html",
     "title": "Data Jobs Done With R",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "get_data_into_R.html",
+    "href": "get_data_into_R.html",
+    "title": "1  Getting Data into R",
+    "section": "",
+    "text": "To do: introduce djr::s_read, which can read .rds, .csv, .xlsx, .txt and other file types",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Getting Data into R</span>"
+    ]
+  },
+  {
+    "objectID": "explore_data.html",
+    "href": "explore_data.html",
+    "title": "2  Exploring Data",
+    "section": "",
+    "text": "a dataframe\na table in a database",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Exploring Data</span>"
+    ]
+  },
+  {
+    "objectID": "data_manipulation.html",
+    "href": "data_manipulation.html",
+    "title": "3  Data Manipulation",
+    "section": "",
+    "text": "creat an empty dataframe\nchange column names\nreorder column\nget column sums added (as the last row)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Manipulation</span>"
+    ]
+  },
+  {
+    "objectID": "output_results.html",
+    "href": "output_results.html",
+    "title": "4  Outputting Results: Writing to Files",
+    "section": "",
+    "text": "check outputs\nintroduce djr::s_save",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Outputting Results: Writing to Files</span>"
+    ]
   }
 ]

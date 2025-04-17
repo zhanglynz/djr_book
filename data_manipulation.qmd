@@ -1,0 +1,6 @@
+# Data Manipulation
+
+- creat an empty dataframe
+- change column names
+- reorder column
+- get column sums added (as the last row)
