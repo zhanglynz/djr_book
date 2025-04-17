@@ -2,5 +2,5 @@
 
 - creat an empty dataframe
 - change column names
-- reorder column
+- reorder columns
 - get column sums added (as the last row)

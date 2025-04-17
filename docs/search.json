@@ -34,7 +34,7 @@
     "href": "data_manipulation.html",
     "title": "3  Data Manipulation",
     "section": "",
-    "text": "creat an empty dataframe\nchange column names\nreorder column\nget column sums added (as the last row)",
+    "text": "creat an empty dataframe\nchange column names\nreorder columns\nget column sums added (as the last row)",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Manipulation</span>"
     ]
@@ -42,11 +42,11 @@
   {
     "objectID": "output_results.html",
     "href": "output_results.html",
-    "title": "4  Outputting Results: Writing to Files",
+    "title": "4  Outputting Results",
     "section": "",
     "text": "check outputs\nintroduce djr::s_save",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Outputting Results: Writing to Files</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Outputting Results</span>"
     ]
   }
 ]
